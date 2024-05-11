@@ -1,9 +1,9 @@
-TEO Cloud
+TEO developers group
 ===
 
-We created **TEO**, the **schema-centered** next-generation web framework for Rust, Node.js and Python.
+We created **TEO**, the **schema-centered** web framework for Rust, Node.js and Python.
 
-Our homepage: https://teocloud.io
+Our homepage: https://teodev.io
 
-Read our docs: https://docs.teocloud.io
+Read our docs: https://docs.teodev.io
 
